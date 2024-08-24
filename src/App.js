@@ -1,5 +1,5 @@
 import './App.css';
-import HelloWorld from './components/Todo/Todo';
+import HelloWorld from './components/HelloWorld/HelloWorld';
 import Counter from './components/Counter/Counter';
 import Form from './components/Form/Form';
 import Card from './components/Card/Card';
