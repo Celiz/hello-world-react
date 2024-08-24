@@ -1,0 +1,35 @@
+.profileCard {
+    background-color: white;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    max-width: 24rem;
+    margin: 0 auto;
+}
+
+.profileCardContent {
+    display: flex;
+    align-items: center;
+}
+
+.profileImage {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 9999px;
+    object-fit: cover;
+    border: 2px solid #3b82f6;
+}
+
+.profileInfo {
+    margin-left: 1rem;
+}
+
+.profileName {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+}
+
+.profileJob {
+    color: #4b5563;
+}
